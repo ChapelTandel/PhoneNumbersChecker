@@ -1,0 +1,7 @@
+c:\users\ctandel\documents\visual studio 2015\Projects\PhoneNumbers\PhoneNumbers\bin\Debug\PhoneNumbers.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\PhoneNumbers\PhoneNumbers\bin\Debug\PhoneNumbers.pdb
+c:\users\ctandel\documents\visual studio 2015\Projects\PhoneNumbers\PhoneNumbers\bin\Debug\nunit.framework.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\PhoneNumbers\PhoneNumbers\bin\Debug\nunit.framework.xml
+c:\users\ctandel\documents\visual studio 2015\Projects\PhoneNumbers\PhoneNumbers\obj\Debug\PhoneNumbers.csprojResolveAssemblyReference.cache
+c:\users\ctandel\documents\visual studio 2015\Projects\PhoneNumbers\PhoneNumbers\obj\Debug\PhoneNumbers.dll
+c:\users\ctandel\documents\visual studio 2015\Projects\PhoneNumbers\PhoneNumbers\obj\Debug\PhoneNumbers.pdb
